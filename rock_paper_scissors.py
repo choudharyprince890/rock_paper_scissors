@@ -9,7 +9,6 @@ if number==3:
     computer='scissor'
 
 def z():
-    print('match begin the game in 3 sec')
     user=input('choose between (rock), (paper) & (scissor)....... ' ).lower()
     
     if user==computer:
